@@ -42,7 +42,8 @@
   text-align: center;
   margin-top: 50px;
   font-weight: bold; }
-  .answer-feedback.correct {
+  
+.answer-feedback.correct {
     color: green; }
-  .answer-feedback.incorrect {
+.answer-feedback.incorrect {
     color: red; }
